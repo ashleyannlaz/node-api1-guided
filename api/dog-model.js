@@ -1,7 +1,7 @@
 const shortid = require('shortid')
 
 let dogs = [
-  { id: shortid.generate(), name: 'Captain', weight: 25 },
+  { id: '1', name: 'Captain', weight: 25 },
   { id: shortid.generate(), name: 'Doggo', weight: 13 },
 ]
 
